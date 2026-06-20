@@ -1,0 +1,15 @@
+.footlink{
+    text-decoration: none;
+    color: rgb(59, 59, 59);
+}
+.download-app .download-badge {
+    display: block;
+    padding: 12px;
+    background-color: #252323;
+    border-radius: 18px;
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.08);
+}
+.customfooter{
+    background-color: #252323;
+    margin-top: 20px;
+}
